@@ -1,5 +1,9 @@
 # Anti-hype LLM reading list
 
+## Background
+
++ [Survey of LLMS](https://arxiv.org/abs/2303.18223)
+
 ## Training Your Own
 + [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
 + [How to train your own LLMs](https://blog.replit.com/llm-training)
