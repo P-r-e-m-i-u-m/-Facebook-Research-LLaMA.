@@ -13,6 +13,7 @@
 + [The case for GZIP Classifiers](https://nlpnewsletter.substack.com/p/flashier-attention-gzip-classifiers) and [more on nearest neighbors algos](https://magazine.sebastianraschka.com/p/large-language-models-and-nearest)
 + [Meta Recsys Using and extending Word2Vec](https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system)
 + [The State of GPT (YouTube)](https://www.youtube.com/watch?v=bZQun8Y4L2A)
++ [What is ChatGPT doing and why does it work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 ## Deployment 
 
