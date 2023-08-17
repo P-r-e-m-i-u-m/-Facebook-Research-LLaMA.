@@ -40,6 +40,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 + [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
 + [All the Hard Stuff Nobody talks about when building products with LLMs ](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
++ [Scaling Kubernetes to run ChatGPT](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
 
 ## Evaluation
 
