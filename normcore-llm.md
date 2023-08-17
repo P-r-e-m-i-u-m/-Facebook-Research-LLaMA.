@@ -34,6 +34,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [The State of GPT (YouTube)](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 + [What is ChatGPT doing and why does it work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 + [How is LlamaCPP Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
++ [On Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 
 ## Deployment 
 
