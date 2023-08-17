@@ -2,12 +2,15 @@
 
 Goals: Add links that are reasonable and good explanations of how stuff works. No hype and no vendor content if possible. 
 
+[My own notes from a few months back.](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698) 
+
 ## Background
 
 + [Survey of LLMS](https://arxiv.org/abs/2303.18223)
 + [Self-attention and transformer networks](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks) 
 + [What are embeddings](https://vickiboykis.com/what_are_embeddings/)
 + [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning (YouTube)](https://www.youtube.com/watch?v=ISPId9Lhc1g)
++ 
 
 
 ## Foundational Papers
@@ -39,6 +42,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 
 ## Evaluation
 
++ [Evaluating ChatGPT](https://ehudreiter.com/2023/04/04/evaluating-chatgpt/)
 
 
 ## UX
