@@ -1,5 +1,7 @@
 # Anti-hype LLM reading list
 
+Goals: Add links that are reasonable and good explanations of how stuff works. No hype and no vendor content if possible. 
+
 ## Background
 
 + [Survey of LLMS](https://arxiv.org/abs/2303.18223)
