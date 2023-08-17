@@ -27,6 +27,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
 + [How to train your own LLMs](https://blog.replit.com/llm-training)
 + Training [Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
++ [Opt-175B Logbook](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/chronicles/OPT175B_Logbook.pdf)
 
 ## Algos
 
