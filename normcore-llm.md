@@ -10,6 +10,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Self-attention and transformer networks](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks) 
 + [What are embeddings](https://vickiboykis.com/what_are_embeddings/)
 + [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning (YouTube)](https://www.youtube.com/watch?v=ISPId9Lhc1g)
++ [Catching up on the weird world of LLMS](https://simonwillison.net/2023/Aug/3/weird-world-of-llms)
 
 
 ## Foundational Papers
