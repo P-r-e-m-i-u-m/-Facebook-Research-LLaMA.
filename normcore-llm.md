@@ -1,6 +1,6 @@
 # Anti-hype LLM reading list
 
-Goals: Add links that are reasonable and good explanations of how stuff works. No hype and no vendor content if possible. 
+Goals: Add links that are reasonable and good explanations of how stuff works. No hype and no vendor content if possible. Practical first-hand accounts and experience preferred (super rare at this point).
 
 [My own notes from a few months back.](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698) 
 
