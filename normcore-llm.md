@@ -55,5 +55,6 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 ## UX
 
 + [Generative Interfaces Beyond Chat (YouTube)](https://www.youtube.com/watch?v=rd-J3hmycQs)
++ [Why Chatbots are not the Future](https://wattenberger.com/thoughts/boo-chatbots)
 
 Thanks to everyone who added suggestions on [Twitter](https://twitter.com/vboykis/status/1691530859575214081), [Mastodon](https://jawns.club/@vicki/110895263087386568), and Bluesky. 
