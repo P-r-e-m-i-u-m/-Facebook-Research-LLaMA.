@@ -49,6 +49,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 
 ## Evaluation
 
++ [Interpretable Machine Learning](https://arxiv.org/abs/2103.11251)
 + [Evaluating ChatGPT](https://ehudreiter.com/2023/04/04/evaluating-chatgpt/)
 + [ChatGPT: Jack of All Trades, Master of None](https://github.com/CLARIN-PL/chatgpt-evaluation-01-2023)
 
