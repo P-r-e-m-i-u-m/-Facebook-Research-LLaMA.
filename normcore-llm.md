@@ -37,6 +37,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [What is ChatGPT doing and why does it work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 + [How is LlamaCPP Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 + [On Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
++ [Transformers from Scratch](https://e2eml.school/transformers.html)
 
 ## Deployment 
 
