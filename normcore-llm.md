@@ -33,7 +33,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Seq2Seq](https://arxiv.org/abs/1409.3215v3)
 + [Attention is all you Need](https://arxiv.org/abs/1706.03762)
 + [BERT](https://arxiv.org/abs/1810.04805)
-+ [GPT-1](https://mistral.ai/news/mixtral-of-experts/)
++ [GPT-1](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
 + [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 + [T5](https://jmlr.org/papers/v21/20-074.html)
 + [GPT-2: Language Models are Unsupervised Multi-Task Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
