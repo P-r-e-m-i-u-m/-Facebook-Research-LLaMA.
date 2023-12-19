@@ -163,16 +163,16 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 
 ## Evaluation
 
-### Frameworks:
-  + [HELM](https://arxiv.org/pdf/2211.09110.pdf)
-  + [LM Eval Harness](https://github.com/EleutherAI/lm-evaluation-harness)
-
 + [Evaluating ChatGPT](https://ehudreiter.com/2023/04/04/evaluating-chatgpt/)
 + [ChatGPT: Jack of All Trades, Master of None](https://github.com/CLARIN-PL/chatgpt-evaluation-01-2023)
 + [What's Going on with the Open LLM Leaderboard](https://huggingface.co/blog/evaluating-mmlu-leaderboard)
 + [Challenges in Evaluating AI Systems](https://www.anthropic.com/index/evaluating-ai-systems)
 + [LLM Evaluation Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)
 + [Evaluating LLMs is a MineField](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
+
+### Eval Frameworks
+  + [HELM](https://arxiv.org/pdf/2211.09110.pdf)
+  + [LM Eval Harness](https://github.com/EleutherAI/lm-evaluation-harness)
 
 ## UX
 
