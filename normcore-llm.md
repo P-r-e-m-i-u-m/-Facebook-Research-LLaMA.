@@ -77,14 +77,25 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + Training [Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 + [Opt-175B Logbook](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/chronicles/OPT175B_Logbook.pdf)
 
-## Fine-Tuning 
+## RLHF and DPO
+
++ [RLHF](https://huggingface.co/blog/rlhf)
++ [Instruction-tuning for LLMs: Survey](https://arxiv.org/abs/2308.10792)
++ [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
++ [RLHF and DPO Compared](https://medium.com/aimonks/rlhf-and-dpo-compared-user-feedback-methods-for-llm-optimization-44f4234ae689)
+
+## Fine-Tuning and Compression
 
 + [The Complete Guide to LLM Fine-tuning](https://bdtechtalks.com/2023/07/10/llm-fine-tuning/amp/)
 + [LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian Language](https://arxiv.org/pdf/2312.09993.pdf) - Really great overview of SOTA fine-tuning techniques
-+ [A Gentle Introduction to 8-bit matrix multiplication](https://huggingface.co/blog/hf-bitsandbytes-integration)
-+ [Motivation for Parameter-Efficient Fine-tuning](https://www.reddit.com/r/MachineLearning/comments/186ck5k/d_what_is_the_motivation_for_parameterefficient/)
-+ [Which Quantization Method is Right for You?](https://maartengrootendorst.substack.com/p/which-quantization-method-is-right)
-+ [Fine-tuning with LoRA and QLoRA](https://lightning.ai/pages/community/lora-insights/)
++ Quantiztion
+  + A Gentle Introduction to 8-bit matrix multiplication](https://huggingface.co/blog/hf-bitsandbytes-integration)
+  + [Which Quantization Method is Right for You?](https://maartengrootendorst.substack.com/p/which-quantization-method-is-right)
+  + [Survey of Quantization for Inference](https://arxiv.org/abs/2103.13630)
++ [PEFT](https://github.com/huggingface/peft)
+  + [Fine-tuning with LoRA and QLoRA](https://lightning.ai/pages/community/lora-insights/)
+  + [Adapters](https://arxiv.org/abs/2304.01933)
+  + [Motivation for Parameter-Efficient Fine-tuning](https://www.reddit.com/r/MachineLearning/comments/186ck5k/d_what_is_the_motivation_for_parameterefficient/)
 + [Fine-tuning RedPajama on Slack Data](https://www.union.ai/blog-post/fine-tuning-insights-lessons-from-experimenting-with-redpajama-large-language-model-on-flyte-slack-data)
 
 # Small and Local LLMs
