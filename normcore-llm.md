@@ -51,7 +51,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Keys, Queries, and Values](https://d2l.ai/chapter_attention-mechanisms-and-transformers/queries-keys-values.html)
 
 ## GPT 
-![](https://camo.githubusercontent.com/85d00cf9bca67e33c2d1270b51ff1ac01853b26a8d6bb226b711f859d065b4a6/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f74726c2d696e7465726e616c2d74657374696e672f6578616d706c652d696d616765732f7265736f6c76652f6d61696e2f696d616765732f74726c5f6f766572766965772e706e67)
+<img width="300" alt="Screenshot 2023-12-18 at 8 37 44 PM" src="[https://gist.github.com/assets/3837836/5ada409d-32cf-496e-9572-cb985ec97165](https://camo.githubusercontent.com/85d00cf9bca67e33c2d1270b51ff1ac01853b26a8d6bb226b711f859d065b4a6/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f74726c2d696e7465726e616c2d74657374696e672f6578616d706c652d696d616765732f7265736f6c76652f6d61696e2f696d616765732f74726c5f6f766572766965772e706e67)">
 
 + [What is ChatGPT doing and why does it work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 + [My own notes from a few months back.](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698) 
