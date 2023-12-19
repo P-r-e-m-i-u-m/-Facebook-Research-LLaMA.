@@ -10,6 +10,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning (YouTube)](https://www.youtube.com/watch?v=ISPId9Lhc1g)
 + [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898v1)
 + [Survey of LLMS](https://arxiv.org/abs/2303.18223)
++ [Deep Learning Systems](https://dlsyscourse.org/lectures/)
 
 ### Building Blocks 
 <img width="405" alt="Screenshot 2023-12-18 at 8 33 35 PM" src="https://gist.github.com/assets/3837836/a92cc13c-105f-4e9a-9b68-dc9b6d4a6e47">
@@ -19,6 +20,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Talking about Large Language Models](https://arxiv.org/pdf/2212.03551.pdf)
 + [Language Modeling is Compression](https://arxiv.org/abs/2309.10668)
 + [Vector Search - Long-Term Memory in AI](https://github.com/edoliberty/vector-search-class-notes)
++ [Eight things to know about large language models](https://arxiv.org/pdf/2304.00612.pdf)
 
 ## Foundational Deep Learning Papers
 
