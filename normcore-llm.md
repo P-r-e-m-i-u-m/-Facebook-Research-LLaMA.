@@ -5,7 +5,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 ## Foundational Concepts 
 
 ### Pre-Transformer Models
-<img width="858" alt="Screenshot 2023-12-18 at 8 25 42 PM" src="https://gist.github.com/assets/3837836/20d3c630-62b1-4717-84d7-e2f24e3f25c7">
+<img width="500" alt="Screenshot 2023-12-18 at 8 25 42 PM" src="https://gist.github.com/assets/3837836/20d3c630-62b1-4717-84d7-e2f24e3f25c7">
 
 + [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning (YouTube)](https://www.youtube.com/watch?v=ISPId9Lhc1g)
 + [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898v1)
@@ -24,7 +24,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 
 ## Foundational Deep Learning Papers
 
-<img width="730" alt="Screenshot 2023-12-18 at 8 35 18 PM" src="https://gist.github.com/assets/3837836/14d51fdf-1ad5-4807-8ad5-d3c81d16fef4">
+<img width="500" alt="Screenshot 2023-12-18 at 8 35 18 PM" src="https://gist.github.com/assets/3837836/14d51fdf-1ad5-4807-8ad5-d3c81d16fef4">
 
 + [BERT](https://arxiv.org/abs/1810.04805)
 + [Seq2Seq](https://arxiv.org/abs/1409.3215v3)
