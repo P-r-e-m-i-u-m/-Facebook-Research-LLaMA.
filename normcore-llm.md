@@ -21,6 +21,8 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 
 ## Foundational Deep Learning Papers
 
+<img width="730" alt="Screenshot 2023-12-18 at 8 35 18 PM" src="https://gist.github.com/assets/3837836/14d51fdf-1ad5-4807-8ad5-d3c81d16fef4">
+
 + [BERT](https://arxiv.org/abs/1810.04805)
 + [Seq2Seq](https://arxiv.org/abs/1409.3215v3)
 + [Attention is all you Need](https://arxiv.org/abs/1706.03762)
