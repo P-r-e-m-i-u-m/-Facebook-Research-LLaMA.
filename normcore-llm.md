@@ -16,7 +16,6 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Fundamental ML Reading List](https://github.com/RoundtableML/ML-Fundamentals-Reading-Lists)
 
 ### Building Blocks 
-<img width="300" alt="Screenshot 2023-12-18 at 8 33 35 PM" src="https://gist.github.com/assets/3837836/a92cc13c-105f-4e9a-9b68-dc9b6d4a6e47">
 
 + [What are embeddings](https://vickiboykis.com/what_are_embeddings/)
 + [Concepts from Operating Systems that Found their way into LLMS](https://muhtasham.github.io/blog/posts/os-concepts-llm/)
