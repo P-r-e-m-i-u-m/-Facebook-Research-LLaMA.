@@ -90,6 +90,8 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 ## RLHF and DPO
 
 + [RLHF](https://huggingface.co/blog/rlhf)
+  + [Supervised Fine-tuning](https://huggingface.co/docs/trl/main/en/sft_trainer) 
+  + [How Abilities in LLMs Are Affected by SFT](https://arxiv.org/abs/2310.05492)
 + [Instruction-tuning for LLMs: Survey](https://arxiv.org/abs/2308.10792)
 + [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
 + [RLHF and DPO Compared](https://medium.com/aimonks/rlhf-and-dpo-compared-user-feedback-methods-for-llm-optimization-44f4234ae689)
@@ -107,7 +109,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
   + [Fine-tuning with LoRA and QLoRA](https://lightning.ai/pages/community/lora-insights/)
   + [Adapters](https://arxiv.org/abs/2304.01933)
   + [Motivation for Parameter-Efficient Fine-tuning](https://www.reddit.com/r/MachineLearning/comments/186ck5k/d_what_is_the_motivation_for_parameterefficient/)
-+ [Fine-tuning RedPajama on Slack Data](https://www.union.ai/blog-post/fine-tuning-insights-lessons-from-experimenting-with-redpajama-large-language-model-on-flyte-slack-data)
+
 
 # Small and Local LLMs
 
@@ -131,6 +133,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [LLM Inference Performance Engineering: Best Practices](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices)
 + [The State of Production LLMs in 2023](https://youtu.be/kMb4TmhTlbk?si=Tdbp-2BKGF5G_qk5)
 + [Machine Learning Engineering for successful training of large language models and multi-modal models.](https://github.com/stas00/ml-engineering)
++ [Fine-tuning RedPajama on Slack Data](https://www.union.ai/blog-post/fine-tuning-insights-lessons-from-experimenting-with-redpajama-large-language-model-on-flyte-slack-data)
 
 ## Prompt Engineering and RAG
 
