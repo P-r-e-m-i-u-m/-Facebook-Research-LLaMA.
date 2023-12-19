@@ -4,6 +4,8 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 
 ## Foundational Concepts 
 
+<img width="400" alt="Screenshot 2023-12-18 at 10 38 06 PM" src="https://gist.github.com/assets/3837836/b3385ca6-f833-4b69-ad92-f9d9f89b6be8">
+
 ### Pre-Transformer Models
 <img width="500" alt="Screenshot 2023-12-18 at 8 25 42 PM" src="https://gist.github.com/assets/3837836/20d3c630-62b1-4717-84d7-e2f24e3f25c7">
 
