@@ -33,6 +33,8 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 
 ## The Transformer Architecture
 
+<img width="506" alt="Screenshot 2023-12-18 at 8 37 44 PM" src="https://gist.github.com/assets/3837836/5ada409d-32cf-496e-9572-cb985ec97165">
+
 + [Transformers from Scratch](https://e2eml.school/transformers.html)
 + [Transformer Math](https://blog.eleuther.ai/transformer-math/)
 + [Five Years of GPT Progress](https://finbarr.ca/five-years-of-gpt-progress/)
