@@ -4,24 +4,18 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 
 ## Foundational Concepts 
 
+### Pre-Transformer Models
 + [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning (YouTube)](https://www.youtube.com/watch?v=ISPId9Lhc1g)
 + [Survey of LLMS](https://arxiv.org/abs/2303.18223)
-+ [Self-attention and transformer networks](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks) 
+
+### Building Blocks 
 + [What are embeddings](https://vickiboykis.com/what_are_embeddings/)
-+ [Catching up on the weird world of LLMS](https://simonwillison.net/2023/Aug/3/weird-world-of-llms)
-+ [Building an LLM from Scratch](https://github.com/rasbt/LLMs-from-scratch)
 + [Concepts from Operating Systems that Found their way into LLMS](https://muhtasham.github.io/blog/posts/os-concepts-llm/)
 + [Talking about Large Language Models](https://arxiv.org/pdf/2212.03551.pdf)
-+ [Large Language Models in 2023](https://www.youtube.com/watch?v=dbo3kNKPaUA&feature=youtu.be) and [Slides](https://docs.google.com/presentation/d/1636wKStYdT_yRPbJNrf8MLKpQghuWGDmyHinHhAKeXY/edit#slide=id.g2885e521b53_0_0)
-+ [Vector Search - Long-Term Memory in AI](https://github.com/edoliberty/vector-search-class-notes)
 + [Language Modeling is Compression](https://arxiv.org/abs/2309.10668)
++ [Vector Search - Long-Term Memory in AI](https://github.com/edoliberty/vector-search-class-notes)
 
-## Attention
-+ [Attention](https://lilianweng.github.io/posts/2018-06-24-attention/)
-+ [Understanding and Coding the Attention Mechanism](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
-+ [Attention Mechanisms](https://bjpcjp.github.io/pdfs/math/attention-mechs-dive.pdf)
-
-## Foundational Papers
+## Foundational Deep Learning Papers
 
 + [Attention is all you Need](https://arxiv.org/abs/1706.03762)
 + [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
@@ -36,19 +30,30 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Transformer Math](https://blog.eleuther.ai/transformer-math/)
 + [Five Years of GPT Progress](https://finbarr.ca/five-years-of-gpt-progress/)
 
-## GPT Specifically 
+### Attention
++ [Self-attention and transformer networks](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks) 
++ [Attention](https://lilianweng.github.io/posts/2018-06-24-attention/)
++ [Understanding and Coding the Attention Mechanism](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
++ [Attention Mechanisms](https://bjpcjp.github.io/pdfs/math/attention-mechs-dive.pdf)
+
+## GPT 
 
 + [What is ChatGPT doing and why does it work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 + [My own notes from a few months back.](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698) 
 + [Karpathy's The State of GPT (YouTube)](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 + [How open are open architectures?](https://opening-up-chatgpt.github.io/)
 
+### LLMs in 2023
++ [Catching up on the weird world of LLMS](https://simonwillison.net/2023/Aug/3/weird-world-of-llms)
++ [Building an LLM from Scratch](https://github.com/rasbt/LLMs-from-scratch)
++ [Large Language Models in 2023](https://www.youtube.com/watch?v=dbo3kNKPaUA&feature=youtu.be) and [Slides](https://docs.google.com/presentation/d/1636wKStYdT_yRPbJNrf8MLKpQghuWGDmyHinHhAKeXY/edit#slide=id.g2885e521b53_0_0)
+
 ## Training Data
 
 + [What's in my Big Data](https://arxiv.org/abs/2310.20707)
 + ["The “it” in AI models is the dataset."](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
 
-## Training Your Own
+## Pre-Training
 + [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
 + [How to train your own LLMs](https://blog.replit.com/llm-training)
 + [Hugging Face Resources on Training Your Own](https://github.com/huggingface/llm_training_handbook)
@@ -72,11 +77,6 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Efficiency LLM Spectrum](https://github.com/tding1/Efficient-LLM-Survey)
 + [TinyML at MIT](https://efficientml.ai/)
 
-## Prompt Engineering 
-
-+ [On Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
-+ [Prompt Engineering Versus Blind Prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
-
 ## Deployment and Production
 
 + [Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html)
@@ -89,6 +89,11 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [(InThe)WildChat: 570K ChatGPT Interaction Logs In The Wild](https://openreview.net/forum?id=Bl8u7ZRlbM)
 + [LLM Inference Performance Engineering: Best Practices](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices)
 + [The State of Production LLMs in 2023](https://youtu.be/kMb4TmhTlbk?si=Tdbp-2BKGF5G_qk5)
+
+## Prompt Engineering 
+
++ [On Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
++ [Prompt Engineering Versus Blind Prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
 
 ## GPUs
 
