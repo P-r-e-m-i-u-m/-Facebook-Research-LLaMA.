@@ -7,11 +7,19 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning (YouTube)](https://www.youtube.com/watch?v=ISPId9Lhc1g)
 + [Survey of LLMS](https://arxiv.org/abs/2303.18223)
 + [Self-attention and transformer networks](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks) 
-+ [Nearest neighbors algos](https://magazine.sebastianraschka.com/p/large-language-models-and-nearest)
 + [What are embeddings](https://vickiboykis.com/what_are_embeddings/)
 + [Catching up on the weird world of LLMS](https://simonwillison.net/2023/Aug/3/weird-world-of-llms)
 + [Building an LLM from Scratch](https://github.com/rasbt/LLMs-from-scratch)
 + [Concepts from Operating Systems that Found their way into LLMS](https://muhtasham.github.io/blog/posts/os-concepts-llm/)
++ [Talking about Large Language Models](https://arxiv.org/pdf/2212.03551.pdf)
++ [Large Language Models in 2023](https://www.youtube.com/watch?v=dbo3kNKPaUA&feature=youtu.be) and [Slides](https://docs.google.com/presentation/d/1636wKStYdT_yRPbJNrf8MLKpQghuWGDmyHinHhAKeXY/edit#slide=id.g2885e521b53_0_0)
++ [Vector Search - Long-Term Memory in AI](https://github.com/edoliberty/vector-search-class-notes)
++ [Language Modeling is Compression](https://arxiv.org/abs/2309.10668)
+
+## Attention
++ [Attention](https://lilianweng.github.io/posts/2018-06-24-attention/)
++ [Understanding and Coding the Attention Mechanism](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
++ [Attention Mechanisms](https://bjpcjp.github.io/pdfs/math/attention-mechs-dive.pdf)
 
 ## Foundational Papers
 
@@ -33,6 +41,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [What is ChatGPT doing and why does it work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 + [My own notes from a few months back.](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698) 
 + [Karpathy's The State of GPT (YouTube)](https://www.youtube.com/watch?v=bZQun8Y4L2A)
++ [How open are open architectures?](https://opening-up-chatgpt.github.io/)
 
 ## Training Data
 
@@ -46,25 +55,29 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + Training [Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 + [Opt-175B Logbook](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/chronicles/OPT175B_Logbook.pdf)
 
-## Fine-Tuning Your Own 
+## Fine-Tuning 
 
 + [LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian Language](https://arxiv.org/pdf/2312.09993.pdf) - Really great overview of SOTA fine-tuning techniques
 + [A Gentle Introduction to 8-bit matrix multiplication](https://huggingface.co/blog/hf-bitsandbytes-integration)
 + [Motivation for Parameter-Efficient Fine-tuning](https://www.reddit.com/r/MachineLearning/comments/186ck5k/d_what_is_the_motivation_for_parameterefficient/)
 + [Which Quantization Method is Right for You?](https://maartengrootendorst.substack.com/p/which-quantization-method-is-right)
++ [Fine-tuning with LoRA and QLoRA](https://lightning.ai/pages/community/lora-insights/)
 
 # Small and Local LLMs
 
 + [How is LlamaCPP Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 + [How to beat GPT-4 with a 13-B Model](https://lmsys.org/blog/2023-11-14-llm-decontaminator/)
 + [Efficient LLM Inference on CPUs](https://arxiv.org/abs/2311.00502v1)
++ [Tiny Language Models Come of Age](}https://www.quantamagazine.org/tiny-language-models-thrive-with-gpt-4-as-a-teacher-20231005/)
++ [Efficiency LLM Spectrum](https://github.com/tding1/Efficient-LLM-Survey)
++ [TinyML at MIT](https://efficientml.ai/)
 
 ## Prompt Engineering 
 
 + [On Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 + [Prompt Engineering Versus Blind Prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
 
-## Deployment 
+## Deployment and Production
 
 + [Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 + [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
@@ -73,6 +86,9 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
 + [Against LLM Maximalism](https://explosion.ai/blog/against-llm-maximalism)
 + [A Guide to Inference and Performance](https://www.baseten.co/blog/llm-transformer-inference-guide/)
++ [(InThe)WildChat: 570K ChatGPT Interaction Logs In The Wild](https://openreview.net/forum?id=Bl8u7ZRlbM)
++ [LLM Inference Performance Engineering: Best Practices](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices)
++ [The State of Production LLMs in 2023](https://youtu.be/kMb4TmhTlbk?si=Tdbp-2BKGF5G_qk5)
 
 ## GPUs
 
@@ -88,12 +104,15 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [ChatGPT: Jack of All Trades, Master of None](https://github.com/CLARIN-PL/chatgpt-evaluation-01-2023)
 + [What's Going on with the Open LLM Leaderboard](https://huggingface.co/blog/evaluating-mmlu-leaderboard)
 + [Challenges in Evaluating AI Systems](https://www.anthropic.com/index/evaluating-ai-systems)
++ [LLM Evaluation Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)
++ [Evaluating LLMs is a MineField](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
 
 ## UX
 
 + [Generative Interfaces Beyond Chat (YouTube)](https://www.youtube.com/watch?v=rd-J3hmycQs)
 + [Why Chatbots are not the Future](https://wattenberger.com/thoughts/boo-chatbots)
 + [The Future of Search is Boutique](https://future.com/the-future-of-search-is-boutique/)
++ [As a Large Language Model, I](http://togelius.blogspot.com/2023/09/as-large-language-model-i.html)
 
 ## What's Next? 
 
