@@ -13,7 +13,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Deep Learning Systems](https://dlsyscourse.org/lectures/)
 
 ### Building Blocks 
-<img width="405" alt="Screenshot 2023-12-18 at 8 33 35 PM" src="https://gist.github.com/assets/3837836/a92cc13c-105f-4e9a-9b68-dc9b6d4a6e47">
+<img width="300" alt="Screenshot 2023-12-18 at 8 33 35 PM" src="https://gist.github.com/assets/3837836/a92cc13c-105f-4e9a-9b68-dc9b6d4a6e47">
 
 + [What are embeddings](https://vickiboykis.com/what_are_embeddings/)
 + [Concepts from Operating Systems that Found their way into LLMS](https://muhtasham.github.io/blog/posts/os-concepts-llm/)
@@ -36,7 +36,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 
 ## The Transformer Architecture
 
-<img width="506" alt="Screenshot 2023-12-18 at 8 37 44 PM" src="https://gist.github.com/assets/3837836/5ada409d-32cf-496e-9572-cb985ec97165">
+<img width="300" alt="Screenshot 2023-12-18 at 8 37 44 PM" src="https://gist.github.com/assets/3837836/5ada409d-32cf-496e-9572-cb985ec97165">
 
 + [Transformers from Scratch](https://e2eml.school/transformers.html)
 + [Transformer Math](https://blog.eleuther.ai/transformer-math/)
