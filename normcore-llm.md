@@ -5,6 +5,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 ## Foundational Concepts 
 
 ### Pre-Transformer Models
+<img width="858" alt="Screenshot 2023-12-18 at 8 25 42 PM" src="https://gist.github.com/assets/3837836/20d3c630-62b1-4717-84d7-e2f24e3f25c7">
 
 + [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning (YouTube)](https://www.youtube.com/watch?v=ISPId9Lhc1g)
 + [Survey of LLMS](https://arxiv.org/abs/2303.18223)
@@ -18,9 +19,10 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 
 ## Foundational Deep Learning Papers
 
++ [BERT](https://arxiv.org/abs/1810.04805)
++ [Seq2Seq](https://arxiv.org/abs/1409.3215v3)
 + [Attention is all you Need](https://arxiv.org/abs/1706.03762)
 + [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
-+ [BERT](https://arxiv.org/abs/1810.04805)
 + [Language Models are Unsupervised Multi-Task Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 + [Training Language Models to Follow Instructions](https://arxiv.org/abs/2203.02155)
 + [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) 
