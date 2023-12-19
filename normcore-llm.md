@@ -132,10 +132,12 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [The State of Production LLMs in 2023](https://youtu.be/kMb4TmhTlbk?si=Tdbp-2BKGF5G_qk5)
 + [Machine Learning Engineering for successful training of large language models and multi-modal models.](https://github.com/stas00/ml-engineering)
 
-## Prompt Engineering 
+## Prompt Engineering and RAG
 
 + [On Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 + [Prompt Engineering Versus Blind Prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
++ [Building RAG-Based Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
++ [Full Fine-Tuning, PEFT, or RAG?](https://deci.ai/blog/fine-tuning-peft-prompt-engineering-and-rag-which-one-is-right-for-you/)
 
 ## GPUs
 
