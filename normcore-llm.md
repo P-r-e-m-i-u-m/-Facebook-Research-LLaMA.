@@ -64,10 +64,14 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [OpenAI Cookbook](https://cookbook.openai.com/)
 
 ### LLMs in 2023
+
+<img width="600" alt="Screenshot 2023-12-18 at 10 07 57 PM" src="https://gist.github.com/assets/3837836/9fcc3f92-719b-4b2c-b4f1-9be506101eb1">
 + [Catching up on the weird world of LLMS](https://simonwillison.net/2023/Aug/3/weird-world-of-llms)
 + [How open are open architectures?](https://opening-up-chatgpt.github.io/)
 + [Building an LLM from Scratch](https://github.com/rasbt/LLMs-from-scratch)
 + [Large Language Models in 2023](https://www.youtube.com/watch?v=dbo3kNKPaUA&feature=youtu.be) and [Slides](https://docs.google.com/presentation/d/1636wKStYdT_yRPbJNrf8MLKpQghuWGDmyHinHhAKeXY/edit#slide=id.g2885e521b53_0_0)
++ [Timeline of Transformer Models](https://ai.v-gar.de/ml/transformer/timeline/)
++ [Large Language Model Evolutionary Tree](https://notes.kateva.org/2023/04/large-language-models-evolutionary-tree.html)
 
 ## Training Data
 
