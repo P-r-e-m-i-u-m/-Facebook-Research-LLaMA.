@@ -5,6 +5,8 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 ## Foundational Concepts 
 
 ### Pre-Transformer Models
+<img width="857" alt="Screenshot 2023-12-18 at 8 26 08 PM" src="https://github.com/veekaybee/viberary/assets/3837836/4326640a-289f-408a-b364-50f31b7fcb33">
+
 + [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning (YouTube)](https://www.youtube.com/watch?v=ISPId9Lhc1g)
 + [Survey of LLMS](https://arxiv.org/abs/2303.18223)
 
