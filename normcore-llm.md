@@ -22,6 +22,8 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Language Modeling is Compression](https://arxiv.org/abs/2309.10668)
 + [Vector Search - Long-Term Memory in AI](https://github.com/edoliberty/vector-search-class-notes)
 + [Eight things to know about large language models](https://arxiv.org/pdf/2304.00612.pdf)
++ [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
++ [The Hardware Lottery](https://arxiv.org/abs/2009.06489)
 
 ## Foundational Deep Learning Papers
 
@@ -127,6 +129,9 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Prompt Engineering Versus Blind Prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
 
 ## GPUs
+
+
+<img width="865" alt="Screenshot 2023-12-18 at 10 02 48 PM" src="https://gist.github.com/assets/3837836/655fedc2-dbc8-406a-a583-65b9a91d4ab9">
 
 + [The Best GPUS for Deep Learning 2023](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
 + [Making Deep Learning Go Brr from First Principles](https://horace.io/brrr_intro.html)
