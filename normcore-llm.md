@@ -24,6 +24,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Eight things to know about large language models](https://arxiv.org/pdf/2304.00612.pdf)
 + [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 + [The Hardware Lottery](https://arxiv.org/abs/2009.06489)
++ [The Scaling Hypothesis](https://gwern.net/scaling-hypothesis)
 
 ## Foundational Deep Learning Papers
 
