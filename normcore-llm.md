@@ -30,13 +30,15 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 
 <img width="500" alt="Screenshot 2023-12-18 at 8 35 18 PM" src="https://gist.github.com/assets/3837836/14d51fdf-1ad5-4807-8ad5-d3c81d16fef4">
 
-+ [BERT](https://arxiv.org/abs/1810.04805)
 + [Seq2Seq](https://arxiv.org/abs/1409.3215v3)
 + [Attention is all you Need](https://arxiv.org/abs/1706.03762)
++ [BERT](https://arxiv.org/abs/1810.04805)
++ [GPT-1](https://mistral.ai/news/mixtral-of-experts/)
 + [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
-+ [Language Models are Unsupervised Multi-Task Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
++ [T5](https://jmlr.org/papers/v21/20-074.html)
++ [GPT-2: Language Models are Unsupervised Multi-Task Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 + [Training Language Models to Follow Instructions](https://arxiv.org/abs/2203.02155)
-+ [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) 
++ [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) 
 
 ## The Transformer Architecture
 
@@ -60,8 +62,15 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [What is ChatGPT doing and why does it work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 + [My own notes from a few months back.](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698) 
 + [Karpathy's The State of GPT (YouTube)](https://www.youtube.com/watch?v=bZQun8Y4L2A)
-
 + [OpenAI Cookbook](https://cookbook.openai.com/)
+
+## Significant OSS Models
+
++ [Llama2](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/?ref=blog.oxen.ai)
++ [Mistral7B](https://arxiv.org/abs/2310.06825)
+  + [Mixtral](https://mistral.ai/news/mixtral-of-experts/)
++ [Phi2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
++ [Falcon7B](https://huggingface.co/blog/falcon)
 
 ### LLMs in 2023
 
@@ -153,6 +162,10 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [GPU Programming](https://enccs.github.io/gpu-programming/)
 
 ## Evaluation
+
+### Frameworks:
+  + [HELM](https://arxiv.org/pdf/2211.09110.pdf)
+  + [LM Eval Harness](https://github.com/EleutherAI/lm-evaluation-harness)
 
 + [Evaluating ChatGPT](https://ehudreiter.com/2023/04/04/evaluating-chatgpt/)
 + [ChatGPT: Jack of All Trades, Master of None](https://github.com/CLARIN-PL/chatgpt-evaluation-01-2023)
