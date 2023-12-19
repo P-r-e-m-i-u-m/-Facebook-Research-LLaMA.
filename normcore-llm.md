@@ -11,6 +11,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898v1)
 + [Survey of LLMS](https://arxiv.org/abs/2303.18223)
 + [Deep Learning Systems](https://dlsyscourse.org/lectures/)
++ [Fundamental ML Reading List](https://github.com/RoundtableML/ML-Fundamentals-Reading-Lists)
 
 ### Building Blocks 
 <img width="300" alt="Screenshot 2023-12-18 at 8 33 35 PM" src="https://gist.github.com/assets/3837836/a92cc13c-105f-4e9a-9b68-dc9b6d4a6e47">
@@ -91,7 +92,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [How is LlamaCPP Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 + [How to beat GPT-4 with a 13-B Model](https://lmsys.org/blog/2023-11-14-llm-decontaminator/)
 + [Efficient LLM Inference on CPUs](https://arxiv.org/abs/2311.00502v1)
-+ [Tiny Language Models Come of Age](}https://www.quantamagazine.org/tiny-language-models-thrive-with-gpt-4-as-a-teacher-20231005/)
++ [Tiny Language Models Come of Age](https://www.quantamagazine.org/tiny-language-models-thrive-with-gpt-4-as-a-teacher-20231005/)
 + [Efficiency LLM Spectrum](https://github.com/tding1/Efficient-LLM-Survey)
 + [TinyML at MIT](https://efficientml.ai/)
 
@@ -107,6 +108,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [(InThe)WildChat: 570K ChatGPT Interaction Logs In The Wild](https://openreview.net/forum?id=Bl8u7ZRlbM)
 + [LLM Inference Performance Engineering: Best Practices](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices)
 + [The State of Production LLMs in 2023](https://youtu.be/kMb4TmhTlbk?si=Tdbp-2BKGF5G_qk5)
++ [Machine Learning Engineering for successful training of large language models and multi-modal models.](https://github.com/stas00/ml-engineering)
 
 ## Prompt Engineering 
 
