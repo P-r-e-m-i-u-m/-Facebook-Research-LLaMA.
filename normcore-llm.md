@@ -97,6 +97,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Opt-175B Logbook](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/chronicles/OPT175B_Logbook.pdf)
 
 ## RLHF and DPO
+<img width="500" alt="Screenshot 2023-12-18 at 10 07 57 PM" src="https://gist.github.com/assets/3837836/1a5cf5af-fd6b-4d11-b3ed-649a4c841f2b">
 
 + [RLHF](https://huggingface.co/blog/rlhf)
   + [Supervised Fine-tuning](https://huggingface.co/docs/trl/main/en/sft_trainer) 
@@ -106,8 +107,6 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [RLHF and DPO Compared](https://medium.com/aimonks/rlhf-and-dpo-compared-user-feedback-methods-for-llm-optimization-44f4234ae689)
 
 ## Fine-Tuning and Compression
-
-<img width="500" alt="Screenshot 2023-12-18 at 10 07 57 PM" src="https://gist.github.com/assets/3837836/1a5cf5af-fd6b-4d11-b3ed-649a4c841f2b">
 
 + [The Complete Guide to LLM Fine-tuning](https://bdtechtalks.com/2023/07/10/llm-fine-tuning/amp/)
 + [LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian Language](https://arxiv.org/pdf/2312.09993.pdf) - Really great overview of SOTA fine-tuning techniques
