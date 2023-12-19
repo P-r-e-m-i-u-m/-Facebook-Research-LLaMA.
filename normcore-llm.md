@@ -8,6 +8,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 <img width="858" alt="Screenshot 2023-12-18 at 8 25 42 PM" src="https://gist.github.com/assets/3837836/20d3c630-62b1-4717-84d7-e2f24e3f25c7">
 
 + [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning (YouTube)](https://www.youtube.com/watch?v=ISPId9Lhc1g)
++ [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898v1)
 + [Survey of LLMS](https://arxiv.org/abs/2303.18223)
 
 ### Building Blocks 
@@ -38,6 +39,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Transformers from Scratch](https://e2eml.school/transformers.html)
 + [Transformer Math](https://blog.eleuther.ai/transformer-math/)
 + [Five Years of GPT Progress](https://finbarr.ca/five-years-of-gpt-progress/)
++ [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172.pdf)
 
 ### Attention
 + [Self-attention and transformer networks](https://sebastianraschka.com/blog/2021/dl-course.html#l19-self-attention-and-transformer-networks) 
@@ -46,6 +48,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Attention Mechanisms](https://bjpcjp.github.io/pdfs/math/attention-mechs-dive.pdf)
 
 ## GPT 
+![](https://camo.githubusercontent.com/85d00cf9bca67e33c2d1270b51ff1ac01853b26a8d6bb226b711f859d065b4a6/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f74726c2d696e7465726e616c2d74657374696e672f6578616d706c652d696d616765732f7265736f6c76652f6d61696e2f696d616765732f74726c5f6f766572766965772e706e67)
 
 + [What is ChatGPT doing and why does it work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 + [My own notes from a few months back.](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698) 
