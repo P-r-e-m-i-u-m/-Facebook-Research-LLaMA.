@@ -61,6 +61,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 
 + [What's in my Big Data](https://arxiv.org/abs/2310.20707)
 + ["The “it” in AI models is the dataset."](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
++ [Extracting Training Data from ChatGPT](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
 
 ## Pre-Training
 + [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
@@ -109,7 +110,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [The Best GPUS for Deep Learning 2023](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
 + [Making Deep Learning Go Brr from First Principles](https://horace.io/brrr_intro.html)
 + [Everything about Distributed Training and Efficient Finetuning](https://sumanthrh.com/post/distributed-and-efficient-finetuning/)
-+ [Training LLMs at Scale with AMD MI250 GPUs](https://www.databricks.com/blog/training-llms-scale-amd-mi250-gpus
++ [Training LLMs at Scale with AMD MI250 GPUs](https://www.databricks.com/blog/training-llms-scale-amd-mi250-gpus)
 + [GPU Programming](https://enccs.github.io/gpu-programming/)
 
 ## Evaluation
