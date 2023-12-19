@@ -60,10 +60,12 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [What is ChatGPT doing and why does it work](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 + [My own notes from a few months back.](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698) 
 + [Karpathy's The State of GPT (YouTube)](https://www.youtube.com/watch?v=bZQun8Y4L2A)
-+ [How open are open architectures?](https://opening-up-chatgpt.github.io/)
+
++ [OpenAI Cookbook](https://cookbook.openai.com/)
 
 ### LLMs in 2023
 + [Catching up on the weird world of LLMS](https://simonwillison.net/2023/Aug/3/weird-world-of-llms)
++ [How open are open architectures?](https://opening-up-chatgpt.github.io/)
 + [Building an LLM from Scratch](https://github.com/rasbt/LLMs-from-scratch)
 + [Large Language Models in 2023](https://www.youtube.com/watch?v=dbo3kNKPaUA&feature=youtu.be) and [Slides](https://docs.google.com/presentation/d/1636wKStYdT_yRPbJNrf8MLKpQghuWGDmyHinHhAKeXY/edit#slide=id.g2885e521b53_0_0)
 
@@ -91,8 +93,9 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 
 + [The Complete Guide to LLM Fine-tuning](https://bdtechtalks.com/2023/07/10/llm-fine-tuning/amp/)
 + [LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian Language](https://arxiv.org/pdf/2312.09993.pdf) - Really great overview of SOTA fine-tuning techniques
++ [On the Structural Pruning of Large Language Models](https://arxiv.org/abs/2305.11627)
 + Quantiztion
-  + A Gentle Introduction to 8-bit matrix multiplication](https://huggingface.co/blog/hf-bitsandbytes-integration)
+  + [A Gentle Introduction to 8-bit matrix multiplication](https://huggingface.co/blog/hf-bitsandbytes-integration)
   + [Which Quantization Method is Right for You?](https://maartengrootendorst.substack.com/p/which-quantization-method-is-right)
   + [Survey of Quantization for Inference](https://arxiv.org/abs/2103.13630)
 + [PEFT](https://github.com/huggingface/peft)
