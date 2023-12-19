@@ -37,7 +37,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 + [T5](https://jmlr.org/papers/v21/20-074.html)
 + [GPT-2: Language Models are Unsupervised Multi-Task Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-+ [Training Language Models to Follow Instructions](https://arxiv.org/abs/2203.02155)
++ [InstructGPT: Training Language Models to Follow Instructions](https://arxiv.org/abs/2203.02155)
 + [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) 
 
 ## The Transformer Architecture
@@ -150,6 +150,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Prompt Engineering Versus Blind Prompting](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
 + [Building RAG-Based Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
 + [Full Fine-Tuning, PEFT, or RAG?](https://deci.ai/blog/fine-tuning-peft-prompt-engineering-and-rag-which-one-is-right-for-you/)
++ [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ## GPUs
 
@@ -173,6 +174,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 ### Eval Frameworks
   + [HELM](https://arxiv.org/pdf/2211.09110.pdf)
   + [LM Eval Harness](https://github.com/EleutherAI/lm-evaluation-harness)
+  + [LmSys Chatbot Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 
 ## UX
 
