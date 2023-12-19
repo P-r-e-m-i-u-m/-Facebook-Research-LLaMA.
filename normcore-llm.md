@@ -48,6 +48,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Attention](https://lilianweng.github.io/posts/2018-06-24-attention/)
 + [Understanding and Coding the Attention Mechanism](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 + [Attention Mechanisms](https://bjpcjp.github.io/pdfs/math/attention-mechs-dive.pdf)
++ [Keys, Queries, and Values](https://d2l.ai/chapter_attention-mechanisms-and-transformers/queries-keys-values.html)
 
 ## GPT 
 ![](https://camo.githubusercontent.com/85d00cf9bca67e33c2d1270b51ff1ac01853b26a8d6bb226b711f859d065b4a6/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f74726c2d696e7465726e616c2d74657374696e672f6578616d706c652d696d616765732f7265736f6c76652f6d61696e2f696d616765732f74726c5f6f766572766965772e706e67)
@@ -77,11 +78,13 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 
 ## Fine-Tuning 
 
++ [The Complete Guide to LLM Fine-tuning](https://bdtechtalks.com/2023/07/10/llm-fine-tuning/amp/)
 + [LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian Language](https://arxiv.org/pdf/2312.09993.pdf) - Really great overview of SOTA fine-tuning techniques
 + [A Gentle Introduction to 8-bit matrix multiplication](https://huggingface.co/blog/hf-bitsandbytes-integration)
 + [Motivation for Parameter-Efficient Fine-tuning](https://www.reddit.com/r/MachineLearning/comments/186ck5k/d_what_is_the_motivation_for_parameterefficient/)
 + [Which Quantization Method is Right for You?](https://maartengrootendorst.substack.com/p/which-quantization-method-is-right)
 + [Fine-tuning with LoRA and QLoRA](https://lightning.ai/pages/community/lora-insights/)
++ [Fine-tuning RedPajama on Slack Data](https://www.union.ai/blog-post/fine-tuning-insights-lessons-from-experimenting-with-redpajama-large-language-model-on-flyte-slack-data)
 
 # Small and Local LLMs
 
@@ -133,6 +136,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Why Chatbots are not the Future](https://wattenberger.com/thoughts/boo-chatbots)
 + [The Future of Search is Boutique](https://future.com/the-future-of-search-is-boutique/)
 + [As a Large Language Model, I](http://togelius.blogspot.com/2023/09/as-large-language-model-i.html)
++ [Natural Language is an Unnatural Interface](https://varunshenoy.substack.com/p/natural-language-is-an-unnatural)
 
 ## What's Next? 
 
