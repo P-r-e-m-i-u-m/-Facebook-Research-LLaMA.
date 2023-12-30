@@ -145,6 +145,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [The State of Production LLMs in 2023](https://youtu.be/kMb4TmhTlbk?si=Tdbp-2BKGF5G_qk5)
 + [Machine Learning Engineering for successful training of large language models and multi-modal models.](https://github.com/stas00/ml-engineering)
 + [Fine-tuning RedPajama on Slack Data](https://www.union.ai/blog-post/fine-tuning-insights-lessons-from-experimenting-with-redpajama-large-language-model-on-flyte-slack-data)
++ [How to Make LLMs go Fast](https://vgel.me/posts/faster-inference/)
 
 ## Prompt Engineering and RAG
 
