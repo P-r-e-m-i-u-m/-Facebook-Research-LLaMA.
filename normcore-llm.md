@@ -27,6 +27,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [The Hardware Lottery](https://arxiv.org/abs/2009.06489)
 + [The Scaling Hypothesis](https://gwern.net/scaling-hypothesis)
 + [Tokenization](https://github.com/SumanthRH/tokenization)
++ [LLM Course](https://github.com/mlabonne/llm-course)
 
 ## Foundational Deep Learning Papers (in semi-chronological order)
 
