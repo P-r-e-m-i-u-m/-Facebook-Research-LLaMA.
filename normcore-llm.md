@@ -141,11 +141,18 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Against LLM Maximalism](https://explosion.ai/blog/against-llm-maximalism)
 + [A Guide to Inference and Performance](https://www.baseten.co/blog/llm-transformer-inference-guide/)
 + [(InThe)WildChat: 570K ChatGPT Interaction Logs In The Wild](https://openreview.net/forum?id=Bl8u7ZRlbM)
-+ [LLM Inference Performance Engineering: Best Practices](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices)
 + [The State of Production LLMs in 2023](https://youtu.be/kMb4TmhTlbk?si=Tdbp-2BKGF5G_qk5)
 + [Machine Learning Engineering for successful training of large language models and multi-modal models.](https://github.com/stas00/ml-engineering)
 + [Fine-tuning RedPajama on Slack Data](https://www.union.ai/blog-post/fine-tuning-insights-lessons-from-experimenting-with-redpajama-large-language-model-on-flyte-slack-data)
+
+
+## LLM Inference and K-V Cache
+
++ [LLM Inference Performance Engineering: Best Practices](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices)
 + [How to Make LLMs go Fast](https://vgel.me/posts/faster-inference/)
++ [Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/)
++ [Which serving technology to use for LLMs?](https://pages.run.ai/hubfs/PDFs/Serving-Large-Language-Models-Run-ai-Benchmarking-Study.pdf)
++ [Speeding up the K-V cache](https://www.dipkumar.dev/becoming-the-unbeatable/posts/gpt-kvcache/)
 
 ## Prompt Engineering and RAG
 
