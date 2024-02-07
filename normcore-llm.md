@@ -153,6 +153,7 @@ Goals: Add links that are reasonable and good explanations of how stuff works. N
 + [Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/)
 + [Which serving technology to use for LLMs?](https://pages.run.ai/hubfs/PDFs/Serving-Large-Language-Models-Run-ai-Benchmarking-Study.pdf)
 + [Speeding up the K-V cache](https://www.dipkumar.dev/becoming-the-unbeatable/posts/gpt-kvcache/)
++ [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
 
 ## Prompt Engineering and RAG
 
