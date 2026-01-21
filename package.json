@@ -1,0 +1,25 @@
+{
+  "name": "please-dont-touch-my-github",
+  "version": "1.0.0",
+  "description": "do you want to be a cole boy in hight school?",
+  "homepage": "https://github.com/P-r-e-m-i-u-m/please-dont-touch-my-github#readme",
+  "bugs": {
+    "url": "https://github.com/P-r-e-m-i-u-m/please-dont-touch-my-github/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P-r-e-m-i-u-m/please-dont-touch-my-github.git"
+  },
+  "license": "ISC",
+  "author": "syed abdul aman",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.30.0"
+  }
+}
