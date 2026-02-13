@@ -1,41 +1,63 @@
 const jsonfile = require("jsonfile");
 const simpleGit = require("simple-git");
 const moment = require("moment");
+const random = require("random"); // Make sure 'npm install random' was run
 
 const FILE_PATH = "./data.json";
 const git = simpleGit();
 
-async function makeOneDayCommit() {
+// 1. Fixed Range: Goes from 1 year ago today up until today
+const START = moment().subtract(1, "year"); 
+const END = moment();
 
-  // Change date here (June 25, 2025)
-  const day = moment("2025-06-25");
+async function makeNaturalGraph() {
+  let day = START.clone();
 
-  // 8–12 commits = dark green
-  const commits = 10;
+  while (day.isSameOrBefore(END)) {
+    const dayOfWeek = day.day(); 
+    
+    // Weekend skip logic (0 = Sunday, 6 = Saturday)
+    const skipChance = (dayOfWeek === 0 || dayOfWeek === 6) ? 0.6 : 0.15;
 
-  for (let i = 0; i < commits; i++) {
+    if (Math.random() > skipChance) {
+      let commits;
+      const roll = Math.random();
+      
+      // 2. Fixed 'random.int' access
+      if (roll > 0.90) {
+        commits = random.default.int(7, 12); // High intensity (Dark Green)
+      } else if (roll > 0.60) {
+        commits = random.default.int(4, 6);  // Medium intensity
+      } else {
+        commits = random.default.int(1, 3);  // Low intensity
+      }
 
-    const date = day
-      .clone()
-      .add(10 + i, "hour")
-      .add(i * 3, "minute")
-      .format();
+      for (let i = 0; i < commits; i++) {
+        const date = day
+          .clone()
+          .add(random.default.int(9, 21), "hour") 
+          .add(random.default.int(0, 59), "minute")
+          .format();
 
-    await jsonfile.writeFile(FILE_PATH, {
-      date,
-      v: Math.random()
-    });
+        const data = { date, commitNum: i };
+        await jsonfile.writeFile(FILE_PATH, data);
 
-    await git.add(FILE_PATH);
-
-    await git.commit("dark green day", {
-      "--date": date
-    });
+        await git.add(FILE_PATH);
+        await git.commit("chore: update data", { "--date": date });
+      }
+      console.log(`Committed ${commits} times for ${day.format("YYYY-MM-DD")}`);
+    }
+    day.add(1, "day");
   }
 
-  await git.push();
-
-  console.log("✅ Done: June 25 filled (dark green)");
+  console.log("Pushing to remote...");
+  // 3. Force push is added here to fix the 'rejected' errors from your previous attempts
+  try {
+    await git.push('origin', 'main', {'--force': null});
+    console.log("Done! Check your GitHub profile in a few minutes.");
+  } catch (e) {
+    console.error("Push failed. Try running 'git push origin main --force' in terminal.");
+  }
 }
 
-makeOneDayCommit();
+makeNaturalGraph();
