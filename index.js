@@ -1,50 +1,41 @@
 const jsonfile = require("jsonfile");
-const moment = require("moment");
 const simpleGit = require("simple-git");
+const moment = require("moment");
 
 const FILE_PATH = "./data.json";
 const git = simpleGit();
 
-const funMessages = [
-  "Coding magic ✨",
-  "Bug squashed 🐛",
-  "Deploying dreams 🚀",
-  "Debugging the matrix 🧠",
-  "Committing chaos 🌀",
-  "Refactored with love 💖",
-  "Optimizing pixels 🎨",
-  "Writing history 📜",
-  "Automating awesomeness 🤖"
-];
+async function makeOneDayCommit() {
 
-async function makeCommit() {
-  // Today's date (India time)
-  const date = moment();
+  // Change date here ($2026-02-24$)
+  const day = moment("$2026-02-24$");
 
-  const now = date.utcOffset("+05:30").format("YYYY-MM-DDTHH:mm:ssZ");
+  // 3 commits = dark green
+  const commits = 3;
 
-  const message =
-    funMessages[Math.floor(Math.random() * funMessages.length)] +
-    " | " +
-    date.format("YYYY-MM-DD");
+  for (let i = 0; i < commits; i++) {
 
-  const data = {
-    date: now
-  };
+    const date = day
+      .clone()
+      .add(10 + i, "hour")
+      .add(i * 3, "minute")
+      .format();
 
-  console.log("Commit:", message);
+    await jsonfile.writeFile(FILE_PATH, {
+      date,
+      v: Math.random()
+    });
 
-  await jsonfile.writeFile(FILE_PATH, data, { spaces: 2 });
+    await git.add(FILE_PATH);
 
-  await git.add(FILE_PATH);
-
-  await git.commit(message, {
-    "--date": now
-  });
+    await git.commit("dark green day", {
+      "--date": date
+    });
+  }
 
   await git.push();
 
-  console.log("Today's commit done ✅");
+  console.log("✅ Done:(dark green)");
 }
 
-makeCommit();
+makeOneDayCommit();
